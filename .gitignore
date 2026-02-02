@@ -1,0 +1,4 @@
+.env
+trading_memory.json
+__pycache__/
+*.pyc
