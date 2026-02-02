@@ -1,6 +1,0 @@
-yfinance
-numpy<2.0.0
-pyTelegramBotAPI
-python-dotenv
-requests
-git+https://github.com/twopirllc/pandas-ta.git
